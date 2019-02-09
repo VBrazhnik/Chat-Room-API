@@ -85,9 +85,7 @@ const Message = new mongoose.model('Message', new mongoose.Schema({
 }));
 ```
 
-**Note**
-
-Regular expression to validate email [was recommended by W3C](https://www.w3.org/TR/html5/forms.html#valid-e-mail-address).
+**Note:** Regular expression to validate email [was recommended by W3C](https://www.w3.org/TR/html5/forms.html#valid-e-mail-address).
 
 ### RESTful API
 
