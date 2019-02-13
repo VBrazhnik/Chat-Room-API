@@ -1,6 +1,6 @@
 # Chat Room API
 
-Movie Library RESTful API was developed using MongoDB, Express.js and Node.js.
+Chat Room RESTful API was developed using MongoDB, Express.js and Node.js.
 
 ## Task
 
